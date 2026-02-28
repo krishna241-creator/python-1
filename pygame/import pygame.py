@@ -8,3 +8,4 @@ while not game:
             game = True
     
     pygame.display.flip()
+
