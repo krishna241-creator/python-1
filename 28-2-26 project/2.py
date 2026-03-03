@@ -3,7 +3,7 @@ import pygame
 pygame.init()
 
 # section - 2
-screen = pygame.display.get((640,480))
+screen = pygame.display.set_mode((640,480))
 caption = pygame.display.set_caption("this is my first game")
 
 # section - 3
