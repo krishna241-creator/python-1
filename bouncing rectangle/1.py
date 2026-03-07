@@ -1,9 +1,9 @@
 import pygame
 import random
 
-screen = pygame.display.set_mode((500,400))
+screen = pygame.display.set_mode((1280,1000))
 
-bg_color = [(255,0,0),(0,255,0),(0,0,255)]
+bg_color = [(0,0,0),(255,255,255),(168,241,222)]
 sp_color = [(0,255,0),(0,0,255),(255,0,0)]
 
 bg = bg_color[0]
